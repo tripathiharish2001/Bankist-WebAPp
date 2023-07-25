@@ -1,4 +1,4 @@
-# Bankist-WebAP
+# Bankist-WebApp
 
 This application serves as the foundational model for a comprehensive banking system web app, offering users a range of essential financial operations, including:
 
